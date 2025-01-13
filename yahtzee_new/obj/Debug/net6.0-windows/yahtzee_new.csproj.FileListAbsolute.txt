@@ -1,0 +1,17 @@
+C:\Users\reveszg\source\repos\yahtzee\form\yahtzee_new\yahtzee_new\obj\Debug\net6.0-windows\yahtzee_new.Properties.Resources.resources
+C:\Users\reveszg\source\repos\yahtzee\form\yahtzee_new\yahtzee_new\obj\Debug\net6.0-windows\yahtzee_new.csproj.GenerateResource.cache
+C:\Users\reveszg\source\repos\yahtzee\form\yahtzee_new\yahtzee_new\obj\Debug\net6.0-windows\yahtzee_new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reveszg\source\repos\yahtzee\form\yahtzee_new\yahtzee_new\obj\Debug\net6.0-windows\yahtzee_new.AssemblyInfoInputs.cache
+C:\Users\reveszg\source\repos\yahtzee\form\yahtzee_new\yahtzee_new\obj\Debug\net6.0-windows\yahtzee_new.AssemblyInfo.cs
+C:\Users\reveszg\source\repos\yahtzee\form\yahtzee_new\yahtzee_new\obj\Debug\net6.0-windows\yahtzee_new.csproj.CoreCompileInputs.cache
+C:\Users\reveszg\source\repos\yahtzee\form\yahtzee_new\yahtzee_new\bin\Debug\net6.0-windows\yahtzee_new.exe
+C:\Users\reveszg\source\repos\yahtzee\form\yahtzee_new\yahtzee_new\bin\Debug\net6.0-windows\yahtzee_new.deps.json
+C:\Users\reveszg\source\repos\yahtzee\form\yahtzee_new\yahtzee_new\bin\Debug\net6.0-windows\yahtzee_new.runtimeconfig.json
+C:\Users\reveszg\source\repos\yahtzee\form\yahtzee_new\yahtzee_new\bin\Debug\net6.0-windows\yahtzee_new.dll
+C:\Users\reveszg\source\repos\yahtzee\form\yahtzee_new\yahtzee_new\bin\Debug\net6.0-windows\yahtzee_new.pdb
+C:\Users\reveszg\source\repos\yahtzee\form\yahtzee_new\yahtzee_new\obj\Debug\net6.0-windows\yahtzee_new.dll
+C:\Users\reveszg\source\repos\yahtzee\form\yahtzee_new\yahtzee_new\obj\Debug\net6.0-windows\refint\yahtzee_new.dll
+C:\Users\reveszg\source\repos\yahtzee\form\yahtzee_new\yahtzee_new\obj\Debug\net6.0-windows\yahtzee_new.pdb
+C:\Users\reveszg\source\repos\yahtzee\form\yahtzee_new\yahtzee_new\obj\Debug\net6.0-windows\yahtzee_new.genruntimeconfig.cache
+C:\Users\reveszg\source\repos\yahtzee\form\yahtzee_new\yahtzee_new\obj\Debug\net6.0-windows\ref\yahtzee_new.dll
+C:\Users\reveszg\source\repos\yahtzee\form\yahtzee_new\yahtzee_new\obj\Debug\net6.0-windows\yahtzee_new.NewYahtzee.resources

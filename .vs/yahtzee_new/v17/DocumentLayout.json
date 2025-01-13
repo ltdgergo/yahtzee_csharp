@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|c:\\users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\endgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|solutionrelative:yahtzee_new\\endgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|c:\\users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|solutionrelative:yahtzee_new\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|c:\\users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\gameresults.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|solutionrelative:yahtzee_new\\gameresults.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|c:\\users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|solutionrelative:yahtzee_new\\help.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|c:\\users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\round.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|solutionrelative:yahtzee_new\\round.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|c:\\users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\fullgamemng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|solutionrelative:yahtzee_new\\fullgamemng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|c:\\users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\newyahtzee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|solutionrelative:yahtzee_new\\newyahtzee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|c:\\users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\diceset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|solutionrelative:yahtzee_new\\diceset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|c:\\users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|solutionrelative:yahtzee_new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\newyahtzee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|solutionrelative:yahtzee_new\\newyahtzee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|c:\\users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\newyahtzee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|solutionrelative:yahtzee_new\\newyahtzee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|c:\\users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\dgvgameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|solutionrelative:yahtzee_new\\dgvgameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|c:\\users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|solutionrelative:yahtzee_new\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|c:\\users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\scorecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|solutionrelative:yahtzee_new\\scorecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|c:\\users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\nextroundbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92133AEC-629C-4AF7-AB3F-0D20220D9B64}|yahtzee_new\\yahtzee_new.csproj|solutionrelative:yahtzee_new\\nextroundbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\Program.cs",
+              "RelativeDocumentMoniker": "yahtzee_new\\Program.cs",
+              "ToolTip": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\Program.cs",
+              "RelativeToolTip": "yahtzee_new\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:20:18.807Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameResults.json",
+              "DocumentMoniker": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\GameResults.json",
+              "RelativeDocumentMoniker": "yahtzee_new\\GameResults.json",
+              "ToolTip": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\GameResults.json",
+              "RelativeToolTip": "yahtzee_new\\GameResults.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-02T14:16:42.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Help.cs",
+              "DocumentMoniker": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\Help.cs",
+              "RelativeDocumentMoniker": "yahtzee_new\\Help.cs",
+              "ToolTip": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\Help.cs",
+              "RelativeToolTip": "yahtzee_new\\Help.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:44:00.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameResult.cs",
+              "DocumentMoniker": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\GameResult.cs",
+              "RelativeDocumentMoniker": "yahtzee_new\\GameResult.cs",
+              "ToolTip": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\GameResult.cs",
+              "RelativeToolTip": "yahtzee_new\\GameResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:24:43.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EndGame.cs",
+              "DocumentMoniker": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\EndGame.cs",
+              "RelativeDocumentMoniker": "yahtzee_new\\EndGame.cs",
+              "ToolTip": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\EndGame.cs",
+              "RelativeToolTip": "yahtzee_new\\EndGame.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:57:02.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewYahtzee.cs",
+              "DocumentMoniker": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\NewYahtzee.cs",
+              "RelativeDocumentMoniker": "yahtzee_new\\NewYahtzee.cs",
+              "ToolTip": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\NewYahtzee.cs",
+              "RelativeToolTip": "yahtzee_new\\NewYahtzee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:56:54.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NextRoundButton.cs",
+              "DocumentMoniker": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\NextRoundButton.cs",
+              "RelativeDocumentMoniker": "yahtzee_new\\NextRoundButton.cs",
+              "ToolTip": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\NextRoundButton.cs",
+              "RelativeToolTip": "yahtzee_new\\NextRoundButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:24:14.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FullGameMng.cs",
+              "DocumentMoniker": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\FullGameMng.cs",
+              "RelativeDocumentMoniker": "yahtzee_new\\FullGameMng.cs",
+              "ToolTip": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\FullGameMng.cs",
+              "RelativeToolTip": "yahtzee_new\\FullGameMng.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:14:50.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\Player.cs",
+              "RelativeDocumentMoniker": "yahtzee_new\\Player.cs",
+              "ToolTip": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\Player.cs",
+              "RelativeToolTip": "yahtzee_new\\Player.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:59:30.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dgvGamePlay.cs",
+              "DocumentMoniker": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\dgvGamePlay.cs",
+              "RelativeDocumentMoniker": "yahtzee_new\\dgvGamePlay.cs",
+              "ToolTip": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\dgvGamePlay.cs",
+              "RelativeToolTip": "yahtzee_new\\dgvGamePlay.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAEkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:36:18.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Round.cs",
+              "DocumentMoniker": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\Round.cs",
+              "RelativeDocumentMoniker": "yahtzee_new\\Round.cs",
+              "ToolTip": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\Round.cs",
+              "RelativeToolTip": "yahtzee_new\\Round.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:02:57.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScoreCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\ScoreCalculator.cs",
+              "RelativeDocumentMoniker": "yahtzee_new\\ScoreCalculator.cs",
+              "ToolTip": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\ScoreCalculator.cs",
+              "RelativeToolTip": "yahtzee_new\\ScoreCalculator.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwKwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:15:09.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DiceSet.cs",
+              "DocumentMoniker": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\DiceSet.cs",
+              "RelativeDocumentMoniker": "yahtzee_new\\DiceSet.cs",
+              "ToolTip": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\DiceSet.cs",
+              "RelativeToolTip": "yahtzee_new\\DiceSet.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwEMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:04:28.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NewYahtzee.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\NewYahtzee.Designer.cs",
+              "RelativeDocumentMoniker": "yahtzee_new\\NewYahtzee.Designer.cs",
+              "ToolTip": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\NewYahtzee.Designer.cs",
+              "RelativeToolTip": "yahtzee_new\\NewYahtzee.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:17:15.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewYahtzee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\NewYahtzee.cs",
+              "RelativeDocumentMoniker": "yahtzee_new\\NewYahtzee.cs",
+              "ToolTip": "C:\\Users\\reveszg\\source\\repos\\yahtzee\\form\\yahtzee_new\\yahtzee_new\\NewYahtzee.cs [Design]",
+              "RelativeToolTip": "yahtzee_new\\NewYahtzee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:09:25.026Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

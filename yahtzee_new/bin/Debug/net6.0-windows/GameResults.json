@@ -1,0 +1,23 @@
+[
+  {
+    "PlayerName": "ge",
+    "GrandTotal": 0,
+    "GameEndDate": "2024-12-03T16:30:42.8171815+01:00",
+    "OverallRanking": 1,
+    "CurrentRanking": null
+  },
+  {
+    "PlayerName": "c",
+    "GrandTotal": 0,
+    "GameEndDate": "2024-12-03T16:30:45.2819977+01:00",
+    "OverallRanking": 2,
+    "CurrentRanking": null
+  },
+  {
+    "PlayerName": "grrr",
+    "GrandTotal": 0,
+    "GameEndDate": "2024-12-03T16:34:24.3634816+01:00",
+    "OverallRanking": 3,
+    "CurrentRanking": 1
+  }
+]

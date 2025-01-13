@@ -1,0 +1,42 @@
+[
+  {
+    "PlayerName": "Gerg\u0151",
+    "GrandTotal": 210,
+    "GameEndDate": "2024-12-06T16:49:10.3648148+01:00",
+    "OverallRanking": 3,
+    "CurrentRanking": null,
+    "IsCurrentGame": false
+  },
+  {
+    "PlayerName": "Lini",
+    "GrandTotal": 274,
+    "GameEndDate": "2024-12-06T16:49:10.3648171+01:00",
+    "OverallRanking": 1,
+    "CurrentRanking": null,
+    "IsCurrentGame": false
+  },
+  {
+    "PlayerName": "Gerg\u0151",
+    "GrandTotal": 237,
+    "GameEndDate": "2024-12-11T17:25:58.6627953+01:00",
+    "OverallRanking": 2,
+    "CurrentRanking": null,
+    "IsCurrentGame": false
+  },
+  {
+    "PlayerName": "Gerg\u0151",
+    "GrandTotal": 205,
+    "GameEndDate": "2025-01-02T15:20:34.9079653+01:00",
+    "OverallRanking": 4,
+    "CurrentRanking": null,
+    "IsCurrentGame": false
+  },
+  {
+    "PlayerName": "Gerg\u0151",
+    "GrandTotal": 174,
+    "GameEndDate": "2025-01-13T11:19:49.1509716+01:00",
+    "OverallRanking": 5,
+    "CurrentRanking": 1,
+    "IsCurrentGame": true
+  }
+]
